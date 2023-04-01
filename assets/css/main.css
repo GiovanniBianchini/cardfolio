@@ -1,0 +1,133 @@
+html {
+    font-size: 20px;
+    scroll-behavior: smooth;
+}
+
+/* here you can change colors vars or arrange elements styling differently */
+:root {
+    --textColor: #101419;
+    --backgroundColor: #F8F8F8;
+    --backgroundColor2: #101419;
+    --backgroundColor3: #FFD485;
+    --detailsColor1: #FF4334;
+    --detailsColor2: #F8F8F8;
+}
+
+h1 {
+    font-family: 'Cabin', sans-serif;
+    letter-spacing: -0.05rem;
+    font-size: 2.5rem;
+    font-weight: normal;
+    line-height: 1.2;
+    color: var(--textColor);
+}
+
+h2 {
+    font-family: 'Cabin', sans-serif;
+    letter-spacing: -0.05rem;
+    font-size: 2rem;
+    font-weight: normal;
+    line-height: 1.2;
+    color: var(--textColor);
+}
+
+
+h3 {
+    font-family: 'Cabin', sans-serif;
+    letter-spacing: -0.05rem;
+    font-size: 1.25rem;
+    font-weight: normal;
+    line-height: 1.2;
+    color: var(--textColor);
+}
+
+p,
+a,
+li,
+input,
+textarea {
+    font-family: 'Cabin', sans-serif;
+    font-size: 1rem;
+    letter-spacing: -0.01rem;
+    font-weight: normal;
+    line-height: 1.4;
+    color: var(--textColor);
+}
+
+ol,
+ul {
+    padding: 0px;
+    margin: 0px;
+}
+
+h1,
+h2,
+h3,
+h4,
+p,
+ol,
+ul,
+a {
+    margin: 0px;
+}
+
+.portoflio-url {
+    color: var(--detailsColor1);
+    text-decoration: none;
+    transition: opacity 0.2s ease-in-out;
+}
+
+.portoflio-url:hover {
+    opacity: .7;
+    text-decoration: none;
+    color: var(--detailsColor1);
+}
+
+/* Helper class for styling */
+.text-highlight {
+    color: var(--detailsColor1);
+}
+
+.text-center {
+    text-align: center;
+}
+
+.max-height-top-section {
+    max-height: 25rem;
+}
+
+/* Scrollbar style */
+/* width */
+::-webkit-scrollbar {
+    width: .3rem;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: var(--detailsColor1); 
+    border-radius: 1rem;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: var(--detailsColor1); 
+  }
+
+/* Style for small desktop/tablet viewport */
+@media screen and (max-width: 1024px) {
+    html {
+        font-size: 18px;
+    }
+}
+
+/* Style for mobile viewport */
+@media screen and (max-width: 639px) {
+    html {
+        font-size: 16px;
+    }
+}

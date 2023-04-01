@@ -1,0 +1,22 @@
+{
+    "Bonsai Archive": {
+        "status":"publish",
+        "title": "Bonsai Archive",
+        "subTitle": "Bonsai website archive",
+        "description": "Here you can find a vast collection of information, tips, and resources for all bonsai enthusiasts. Our archive includes articles and guides on various bonsai styles, techniques for growing and caring for bonsai trees, and the history and cultural significance of bonsai. Whether you're a beginner or an experienced bonsai artist, our archive has something for everyone. Explore our vast collection of content and deepen your knowledge and appreciation for the art of bonsai.",
+        "projectUrl": "https://bonsaiarchive.altervista.org/",
+        "projectImages": ["bonsai1.jpg", "bonsai2.jpg", "bonsai3.jpg", "bonsai4.jpg"]
+    },
+    "Project Only Text": {
+        "status":"publish",
+        "title": "Project Only Text",
+        "subTitle":"Our project focuses on the power of language and how it can be used to convey information",
+        "description": "We believe that words alone have the ability to create vivid images and inspire the imagination. Through our project, we aim to showcase the beauty and versatility of language, and how it can be used to communicate effectively in a world that is increasingly reliant on visual media. Join us in exploring the rich and dynamic world of text, and discover the power of words for yourself."
+    },
+    "Project3": {
+        "status":"draft",
+        "title": "Title Ipsum",
+        "subTitle": "Lorem ipsum dolor sit amet consectetur",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nemo molestias accusantium iusto sunt odio odit enim et magnam fuga vitae natus, quas ex. Magnam ab voluptatum pariatur, blanditiis accusamus vero."
+    }
+}
