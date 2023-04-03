@@ -20,7 +20,7 @@ CardFolio is a small cards app that allows you to present yourself and the proje
 
 **Tech used:** Nuxt 3, Bootstrap v5.3, UiKit
 
-You can insert links pointing to your social profiles and it also has a section dedicated to the work done with title, description, link to the resource and slider with lightbox function as a visual support for the content.
+You can insert links pointing to your social profiles and it also has a section dedicated to the works done with title, description, link to the resource and slider with lightbox function as a visual support for the contents.
 
 The app is built on Nuxt 3 (Vue 3 Composition API).
 You can then leverage SSG to generate a static version of CardFolio or embed it within sections that leverage SSR instead, it depends on what you are more comfortable with!
@@ -30,7 +30,7 @@ You can then leverage SSG to generate a static version of CardFolio or embed it 
 ## How to configure
 **Installation**: download CardFolio (zip or clone) and install dependecies (node_modules and .nuxt folders).
 
-**Configure Settings**: open settings.json (/src/settings.json). Here you'll find all the variables that CardFolio will use to show your profile image, name, job role, presentation, and your social. If a variable is empty then the relative section will not show up in front-end. Your prorfile image file must be placed inside /public/images/profilePicture/.
+**Configure Settings**: open settings.json (/src/settings.json). Here you'll find all the keys that CardFolio will use to show your profile image, name, job role, presentation, and your social. If a key is empty then the relative section will not show up in front-end. Your prorfile image file must be placed inside /public/images/profilePicture/.
 
 ### Example
 ```json
