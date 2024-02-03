@@ -99,4 +99,4 @@ The intent was to provide a tool that was easy to configure and easy to integrat
 ## About me
 I'm Giovanni and I'm a creative Front End Developer. Below you can find my Linkedin profile link.
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-bianchini-%F0%9F%91%8B%F0%9F%8F%BB-823a1b224)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-bianchini-823a1b224/)
